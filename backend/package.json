@@ -1,0 +1,29 @@
+{
+  "name": "api_cadastro_usuario",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genivalitalo/api_cadastro_usuario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genivalitalo/api_cadastro_usuario/issues"
+  },
+  "homepage": "https://github.com/genivalitalo/api_cadastro_usuario#readme",
+  "dependencies": {
+    "@prisma/client": "^6.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.1.0"
+  }
+}
